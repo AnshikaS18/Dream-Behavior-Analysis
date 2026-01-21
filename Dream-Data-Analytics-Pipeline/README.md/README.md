@@ -20,8 +20,20 @@ No personally identifiable information was collected or retained.
 - Python
 - Power BI
 
-## Project Status
-- SQL analysis: Completed
-- Python EDA: Planned
-- Power BI dashboard: Rebuilding
+## Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize emotional,
+behavioral, and sleep-related patterns in dream data.
+
+### Dashboard Highlights
+- KPI overview showing total dreams, average sentiment, stress levels, and lucid dream percentage
+- Emotion-wise distribution of dreams and emotional polarity
+- Analysis of emotional intensity across different sleep stages
+- Relationship between stress before sleep and dream sentiment
+- Comparison of dream length with emotional polarity
+
+The dashboard includes interactive filters for emotion, sleep stage,
+season, and lucid dreaming to allow dynamic exploration of insights.
+
+
 
